@@ -1,4 +1,4 @@
-# cookpad-syntax theme
+# foodtech-syntax theme
 
 A mild but tasteful low-calorie theme to make everyday coding fun.
 
