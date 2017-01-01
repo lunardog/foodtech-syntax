@@ -1,0 +1,18 @@
+{
+  "name": "foodtech-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Makes Atom look nice in the kitchen",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light",
+    "natural",
+    "healthy"
+  ],
+  "repository": "https://github.com/lunardog/foodtech-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
